@@ -1,16 +1,32 @@
-## Hi there 👋
+/ README.md
 
-<!--
-**kolodin21/kolodin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages and Tools:
 
-Here are some ideas to get you started:
+[![.Net Core](https://img.shields.io/badge/-Core-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)]()
+[![.Net Framework](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)]()
+[![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=postgresql&logoColor=00648B)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![React](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
+![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
+![Sass](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png)
+
+---
+
+### Connect with me:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4F7DB3)](https://t.me/kolodin21)
+[![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/https://vk.com/kolodinivan)
+
+---
+
+<details>
+  <summary>⚡ Statistics:</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolodin21&langs_count=8&layout=compact)]()
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kolodin21&show_icons=true)]()
+
+</details>
