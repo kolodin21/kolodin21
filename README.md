@@ -19,7 +19,7 @@
 ### Connect with me:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=4F7DB3)](https://t.me/kolodin21)
-[![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/https://vk.com/kolodinivan)
+[![VK](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kolodinivan)
 
 ---
 
