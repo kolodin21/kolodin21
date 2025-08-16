@@ -1,5 +1,3 @@
-/ README.md
-
 ### Languages and Tools:
 
 [![.Net Core](https://img.shields.io/badge/-Core-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)]()
